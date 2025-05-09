@@ -1,5 +1,6 @@
 body{
     background-color: #f5f5f5;
+    font-family: 'Barlow Semi Condensed', sans-serif;
 }
 
 .container{
@@ -8,7 +9,8 @@ body{
     gap: .5rem;
     justify-items: center;
     padding: 0 10%;
-    font-size: small;
+    font-size: 13px;
+   
 }
 
 
