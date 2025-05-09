@@ -28,7 +28,12 @@ body{
     gap: .5rem;
 
 }
-
+.right{
+    margin-left: .5rem;
+    border: 1px solid white;
+    box-shadow: black;
+    border-radius: .5rem;
+}
 .daniel{
 background-color: #733fc8;
 border-radius: .5rem;
@@ -47,11 +52,11 @@ padding: 1rem;
 
 .everydescription{
     color: antiquewhite;
-    opacity: 20%;
+    opacity: 30%;
 }
 .everynamedesc{
    color: antiquewhite;
-   opacity: 20%; 
+   opacity: 30%; 
 }
 
 .jonathan{
@@ -141,6 +146,10 @@ padding: 1rem;
 }
 .jonathan{
     margin-top: .5rem;
+}
+
+.right{
+    margin-left: 0%;
 }
 
 }
