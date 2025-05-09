@@ -38,7 +38,7 @@ body {
   padding: 1rem;
   background-image: url('./images/bg-pattern-quotation.svg');
   background-repeat: no-repeat;
- background-position: top 1rem right 4rem;
+  background-position: top 1rem right 4rem;
    
 }
 
@@ -152,5 +152,8 @@ body {
 
   .kira {
     margin-top: 0.5rem;
+  }
+  .daniel {
+ background-image: none;
   }
 }
